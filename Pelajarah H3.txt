@@ -1,0 +1,16 @@
+Iptek H3
+
+<img>
+
+
+
+
+
+Attribut wajib pada <img>
+
+SFC (Source)
+-bisa di ambil di lokal (Memory) ataupun URL (Internet) 
+
+tulis "img" nanti bakal keluar kode aslinya nanti bakal keluar kode ini '<img src="" alt="">'
+
+<img src="<ini buat urlnya mau dari Local maupun dari internet>" alt="<kurang tw sih tpi keknya cm nama dh>">
